@@ -64,8 +64,3 @@ The pipeline consists of four main stages:
 
 For full details on methodology, kinematics, calibration, and results, see [`report.pdf`](./Report/RNM_Final_Report.pdf).
 
----
-
-## Acknowledgements
-
-Guided by **Prof. Alexander Schlaefer**, with tutors **Konrad Reuter** and **Michael Meyling** at the Institute of Medical Technology and Intelligent Systems (MTEC), TUHH.
