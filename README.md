@@ -2,16 +2,29 @@
 
 A ROS-based system for autonomous robotic needle placement using a **Franka Emika Panda** arm and **Microsoft Azure Kinect** depth camera. The robot scans a chest phantom, registers it against a CT model, and performs precise needle insertion — fully autonomously.
 
-
 ---
 
 ## Demo
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+
 **Robot Execution**
 
-https://github.com/user-attachments/assets/a96614c7-a39d-47de-bc48-e2d2e79f3ea2
+[▶ Click to view video](https://github.com/user-attachments/assets/a96614c7-a39d-47de-bc48-e2d2e79f3ea2)
 
-![Point Cloud Registration](images/point_cloud_registration.jpeg)
+</td>
+
+<td align="center" valign="top" width="50%">
+
+**Point Cloud Registration**
+
+<img src="Images/point_cloud_registration.jpeg" width="90%"/>
+
+</td>
+  </tr>
+</table>
 
 ---
 
