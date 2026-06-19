@@ -62,7 +62,7 @@ The pipeline consists of four main stages:
 
 ## Report
 
-For full details on methodology, kinematics, calibration, and results, see [`report.pdf`](./report.pdf).
+For full details on methodology, kinematics, calibration, and results, see [`report.pdf`](./Report/RNM_Final_Report.pdf).
 
 ---
 
