@@ -20,7 +20,7 @@ A ROS-based system for autonomous robotic needle placement using a **Franka Emik
 
 **Point Cloud Registration**
 
-<img src="Images/point_cloud_registration.jpeg" width="90%"/>
+<img src="demo/point_cloud_registration.jpeg" width="90%"/>
 
 </td>
   </tr>
